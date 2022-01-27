@@ -46,7 +46,7 @@ setup(
         'marshmallow>=3.6',
         'python-box>=4.0',
         'defusedxml>=0.5.0',
-        'urllib3>=1.26.5',
+        'urllib3>=1.24.2',
         'typing-extensions>=4.0.1',
         'dataclasses>=0.8;python_version=="3.6"',
     ],
